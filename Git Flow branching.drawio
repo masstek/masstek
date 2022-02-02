@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T21:34:35.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="DDVkLi9fzYbxEEcFO1YW" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T21:38:28.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="069anutkdxe3_hL8KpZS" version="16.5.3" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="906" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="1">
       <root>
@@ -19,16 +19,16 @@
         <mxCell id="zzRFt7y8Lg2_YDjcbfGq-5" value="Branch K" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-7" value="sprint-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-7" value="sprint-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="280" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-8" value="sprint-X" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-8" value="sprint-X" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="780" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-9" value="dev" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-9" value="dev" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="510" y="345" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-10" value="master" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-10" value="master" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;strokeWidth=2;shadow=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="505" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zzRFt7y8Lg2_YDjcbfGq-11" value="hotfix/branch-X" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="zzRFt7y8Lg2_YDjcbfGq-14" value="hotfix/branch-X" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="415" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-15" value="hotfix/branch-X" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-15" value="hotfix/branch-X" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="150" y="425" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zzRFt7y8Lg2_YDjcbfGq-16" value="Branch N" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
@@ -117,6 +117,18 @@
             <mxPoint x="620" y="540" as="sourcePoint" />
             <mxPoint x="670" y="490" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-32" value="Главная ветка для ветвления" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-33" value="Ветки спринтов для слияния" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-34" value="Ветки задач спринта" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzRFt7y8Lg2_YDjcbfGq-35" value="Критические задачи ветвятся от master ветки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="385" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
